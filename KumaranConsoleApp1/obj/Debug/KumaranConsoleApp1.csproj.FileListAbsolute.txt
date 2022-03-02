@@ -1,0 +1,11 @@
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\bin\Debug\KumaranConsoleApp1.exe.config
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\bin\Debug\KumaranConsoleApp1.exe
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\bin\Debug\KumaranConsoleApp1.pdb
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.exe
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.pdb
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\bin\Debug\LibraryClassFile.dll
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\obj\Debug\KumaranConsoleApp1.csproj.CopyComplete
+C:\Users\jsara\source\repos\KumaranConsoleApp1\KumaranConsoleApp1\bin\Debug\LibraryClassFile.pdb
